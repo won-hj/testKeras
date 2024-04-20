@@ -1,3 +1,3 @@
 # testKeras
 
-practice keras API especially KerasCV and Hyperparameter Tuning 
+practice keras examples especially KerasCV and Hyperparameter Tuning 
